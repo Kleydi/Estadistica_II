@@ -1,12 +1,14 @@
 DESARROLLO DEL PROBLEMA: 
 
-OBJETIVO DE LA INVESTIGACIÓN - Kleydi
+PARTE 1 : Objetivo de la Investigación, Descripción de estadísticos a usar, Análisis Estadístico de Variable Situación Jurídica (Kleydi)
+
+OBJETIVO DE LA INVESTIGACIÓN 
 El objetivo de la presente investigación es analizar las diferencias en las mediciones de  ira, es decir, evaluar las diferencias en la capacidad de manejar la ira, en una población de reclusos de 20 establecimientos penitenciarios.  Para el presente análisis se consideró a la variable “Ira” , capacidad de manejar la ira, como variable dependiente. Mientras que las variables “delito, situación, hijos y vínculo” fueron considerados como variables independientes.
 
-ANÁLISIS ESTADÍSTICOS - Kleydi
+ANÁLISIS ESTADÍSTICOS 
 Para el presente estudio, no se realizaron análisis estadísticos como pruebas de normalidad; pues la indicación del problema indicaba que se asumiera normalidad de las variables. A partir de esta indicación de normalidad, se determinó usar análisis estadísticos paramétricos, como la prueba t-Student para dos muestras independientes y  ONE WAY ANOVA para k muestras independientes. Así mismo, para analizar el tamaño del efecto se escogió la “d de Cohen” y el “coeficiente eta” para así poder evaluar el tamaño del efecto y analizar si la diferencia es significativa.
 
-ANÁLISIS ESTADÍSTICO DE LA VARIABLE SITUACIÓN JURÍDICA - Kleydi
+ANÁLISIS ESTADÍSTICO DE LA VARIABLE SITUACIÓN JURÍDICA 
 
 El problema indica normalidad en las variable dependiente, por lo que no es necesario realizar nuevas pruebas de normalidad en las variables independientes. Por lo que al asumirse normalidad en la distribución de los datos, se realizan análisis estadísticos paramétricos.
 
@@ -38,11 +40,13 @@ En la tabla de “Estadísticos de grupo” se observa que las medias de ambos g
 Debido a que se muestran diferencias en las medias, se decide realizar un análisis estadístico para evaluar el tamaño del efecto, en este caso la “d de Cohen”. El tamaño del efecto resulta .14, que siguiendo el criterio de clasificación de Cohen, es muy bajo. Por lo tanto la diferencia entre los grupos al ser muy pequeña es irrelevante; lo que lleva a considerar que los resultados no son significativos; y por ende, es poco probable que haya una correspondencia a nivel poblacional.
 
 Conclusión
-A manera de conclusión se puede decir que en un primer momento se acepta la hipótesis alterna, pues se ve sustentada por los análisis estadísticos de la prueba T para dos muestras independientes, ademas del gráfico de resultados que también muestra una diferencia que sustenta los resultados previos. Sin embargo, al observar el tamaño de la diferencia se observa que esta es muy pequeña y no es significativa,  por lo que se lleva a rechazar la hipótesis alterna. 
+A manera de conclusión se puede decir que en un primer momento se acepta la hipótesis alterna, pues se ve sustentada por los análisis estadísticos de la prueba T para dos muestras independientes, además del gráfico de resultados que también muestra una diferencia que sustenta los resultados previos. Sin embargo, al observar el tamaño de la diferencia se observa que esta es muy pequeña y no es significativa,  por lo que se lleva a rechazar la hipótesis alterna. 
 
 A partir de estos resultados, se llega a la conclusión de que si bien hay diferencias en el manejo de la ira de los grupos de sentenciados y procesados, esta diferencia es mínima por lo que sus resultados son similares, y se rechaza la hipótesis específica de que el grupo de presidiarios sentenciados presenta puntajes mayores de manejo de la ira a comparación del grupo de procesados. 
 
-ANÁLISIS ESTADÍSTICO DE LA VARIABLE HIJOS - Kleydi - Giovanny
+PARTE 2: Análisis Estadístico de la Variable Hijos y Situación (Giovanny)
+
+ANÁLISIS ESTADÍSTICO DE LA VARIABLE HIJOS - (Kleydi - Giovanny)
 
 Al asumirse normalidad en las variables, no se realizan pruebas adicionales para evaluar la distribución normal de los datos. Por lo tanto se realizaran análisis estadísticos paramétricos.
 
@@ -70,3 +74,5 @@ Conclusión
 Se acepta la hipótesis nula, eso quiere decir que las medias de ambos grupos, presidiarios con y sin hijos, son iguales. Este resultado se podria explicar considerando que los valores de sus medias y desviaciones estándar son similares, por lo tanto no se observan diferencias marcadas en sus puntuaciones.
 
 Respecto a la variable hijos, se puede decir que no genera variabilidad en las puntuaciones de manejo de la ira, por lo que independientemente del grupo al que pertenezca  el presidiario, su puntuación será cercana a la media, y no presentará mayores diferencias.
+
+ANÁLISIS ESTADÍSTICO DE LA VARIABLE SITUACIÓN - (Giovanny)

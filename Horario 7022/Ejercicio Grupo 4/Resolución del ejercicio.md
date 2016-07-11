@@ -75,4 +75,4 @@ Se acepta la hipótesis nula, eso quiere decir que las medias de ambos grupos, p
 
 Respecto a la variable hijos, se puede decir que no genera variabilidad en las puntuaciones de manejo de la ira, por lo que independientemente del grupo al que pertenezca  el presidiario, su puntuación será cercana a la media, y no presentará mayores diferencias.
 
-ANÁLISIS ESTADÍSTICO DE LA VARIABLE SITUACIÓN - (Giovanny)
+ANÁLISIS ESTADÍSTICO DE LA VARIABLE VÍNCULO - (Giovanny)
